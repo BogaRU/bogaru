@@ -8,8 +8,8 @@
 # Пройденные курсы:
 | Название курса  | Ссылка |
 | ------------- | ------------- |
-| Полное руководство по языку программирования С# 11 и платформе .NET 7  | (https://metanit.com/sharp/tutorial/)  |
-| Руководство по программированию на .NET MAUI и C#  | (https://metanit.com/sharp/maui/)  |
+| Полное руководство по языку программирования С# 11 и платформе .NET 7  | https://metanit.com/sharp/tutorial/  |
+| Руководство по программированию на .NET MAUI и C#  | https://metanit.com/sharp/maui/  |
 | Руководство по программированию в Windows Forms  | https://metanit.com/sharp/windowsforms/  |
 | Руководство по программированию для Xamarin Forms  | https://metanit.com/sharp/xamarin/  |
 | Основы программирования на примере C#. Часть 1  | https://ulearn.me/Course/BasicProgramming  |
