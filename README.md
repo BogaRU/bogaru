@@ -28,5 +28,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=BogaRU&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BogaRU&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BogaRU&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<br>Полный список репозиториев - https://github.com/BogaRU?tab=repositories
+# Полный список репозиториев - https://github.com/BogaRU?tab=repositories
   
